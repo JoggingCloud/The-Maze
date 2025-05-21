@@ -1,0 +1,32 @@
+<Definitions>
+  <!-- SpawnPoint -->
+  <ActorDefinition name="SpawnPoint" faction="SpawnPoint"/>
+  <!-- Marine -->
+  <ActorDefinition name="Player" faction="Player" health="100" canBePossessed="true" corpseLifetime="0.1f" visible="true" item="false">
+    <Collision radius="0.25f" height="1.5f" collidesWithWorld="true" collidesWithActors="true"/>
+    <Physics simulated="true" walkSpeed="4.0f" runSpeed="10.0f" flying="false" turnSpeed="180.0f" drag="5.0f"/>
+    <Camera eyeHeight="1.4f" cameraFOV="60.0f"/>
+    <Visuals renderLit="true" renderRounded="true">
+    </Visuals>
+  </ActorDefinition>
+  <!-- Demon -->
+  <ActorDefinition name="Enemy" faction="Enemy" health="100" canBePossessed="true" corpseLifetime="1.5f" visible="true" item="false">
+    <Collision radius="0.35f" height="1.5f" collidesWithWorld="true" collidesWithActors="true"/>
+    <Physics simulated="true" walkSpeed="3.0f" runSpeed="7.0f" turnSpeed="180.0f" drag="5.0f"/>
+    <Camera eyeHeight="1.0f" cameraFOV="120.0f"/>
+    <AI aiEnabled="true" sightRadius="64.0" sightAngle="120.0"/>
+    <Visuals renderLit="true" renderRounded="true">
+    </Visuals>
+    <Inventory>
+      <Weapon name="EnemyMelee"/>
+    </Inventory>
+    </ActorDefinition>
+	<!-- Item -->
+	<ActorDefinition name ="ItemBox" faction="ItemBox" health="1" canBePossessed="false" corpseLifetime="0.1f" visible="true" item="true">
+		<Collision radius="0.5f" height="0.5f" collidesWithWorld="true" collidesWithActors="true" dieOnCollide="true"/>
+		<Physics simulated="true" walkSpeed="0.0f" runSpeed="0.0f" flying="true" turnSpeed="0.0f" drag="0.0f"/>
+		<Visuals renderLit="true" renderRounded="false">
+		</Visuals>
+	</ActorDefinition>
+</Definitions>
+

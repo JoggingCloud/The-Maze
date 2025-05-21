@@ -1,0 +1,5 @@
+<Definitions>
+  <!-- Enemy Melee -->
+  <WeaponDefinition name="EnemyMelee" refireTime="1.0" enemyMeleeCount="1" enemyMeleeArc="180.0" enemyMeleeRange="0.75" enemyMeleeDamage="200.0">
+  </WeaponDefinition>
+</Definitions>

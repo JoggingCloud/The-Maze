@@ -1,0 +1,42 @@
+<MapDefinitions>
+	<MapDefinition name="MazeOne" image="Data/Maps/MazeOne.png" spriteSheetTexture="Data/Images/Terrain_8x8.png" spriteSheetCellCount="8,8">
+		<SpawnInfos>
+			<SpawnInfo actor="SpawnPoint" position="25.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="26.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="27.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="28.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="29.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint"  position="30.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+		</SpawnInfos>
+	</MapDefinition>
+	<MapDefinition name="MazeTwo" image="Data/Maps/MazeTwo.png" spriteSheetTexture="Data/Images/Terrain_8x8.png" spriteSheetCellCount="8,8">
+		<SpawnInfos>
+			<SpawnInfo actor="SpawnPoint" position="25.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="26.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="27.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="28.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="29.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint"  position="30.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+		</SpawnInfos>
+	</MapDefinition>
+	<MapDefinition name="MazeThree" image="Data/Maps/MazeThree.png" spriteSheetTexture="Data/Images/Terrain_8x8.png" spriteSheetCellCount="8,8">
+		<SpawnInfos>
+			<SpawnInfo actor="SpawnPoint" position="25.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="26.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="27.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="28.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="29.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint"  position="30.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+		</SpawnInfos>
+	</MapDefinition>
+	<MapDefinition name="MazeFour" image="Data/Maps/MazeFour.png" spriteSheetTexture="Data/Images/Terrain_8x8.png" spriteSheetCellCount="8,8">
+		<SpawnInfos>
+			<SpawnInfo actor="SpawnPoint" position="25.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="26.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="27.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="28.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint" position="29.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+			<SpawnInfo actor="SpawnPoint"  position="30.5,15.5,0.0" orientation="270.0,0.0,0.0" />
+		</SpawnInfos>
+	</MapDefinition>
+</MapDefinitions>

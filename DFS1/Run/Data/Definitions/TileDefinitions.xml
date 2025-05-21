@@ -1,0 +1,9 @@
+<TileDefinitions>
+  <TileDefinition name="Ground" isSolid="false" mapImagePixelColor="251,242,54" floorSpriteCoords="7,5"/>
+  <TileDefinition name="EnemyStartPoint" isSolid="false" mapImagePixelColor="255,0,0" floorSpriteCoords="4,2"/>
+  <TileDefinition name="PlayerStartPoint" isSolid="false" mapImagePixelColor="215,123,186" floorSpriteCoords="4,6"/>
+  <TileDefinition name="EndPoint" isSolid="false" mapImagePixelColor="95,205,228" floorSpriteCoords="1,7"/>
+  <TileDefinition name="InteriorWall" isSolid="true" mapImagePixelColor="223,113,38" wallSpriteCoords="5,5" ceilingSpriteCoords="5,5"/>
+  <TileDefinition name="ExteriorWall" isSolid="true" mapImagePixelColor="91,110,225" wallSpriteCoords="5,4" ceilingSpriteCoords="5,4"/>
+  <TileDefinition name="ItemSpawnPoint" isSolid="false" mapImagePixelColor="41,218,41" floorSpriteCoords="7,1"/>
+</TileDefinitions>
