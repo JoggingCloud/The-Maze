@@ -1,0 +1,10 @@
+#pragma once
+enum class ActorType
+{
+	UNKNOWN = -1,
+	ACTOR_SPAWN,
+	ACTOR_PLAYER,
+	ACTOR_ENEMY,
+	ACTOR_ITEMBOX,
+	NUM_ACTOR_TYPES,
+};
