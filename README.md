@@ -12,11 +12,12 @@ The Keyboard Controls:
 2.	A and D key to move left or right
 3.	Hold shift to sprint
 4.	F key to toggle between perspective and free-fly camera mode
-Perspective Mode:
-•	No mouse movement 
-•	WASD to move the player actor 
+	
+ Perspective Mode:
+	•	No mouse movement 
+	•	WASD to move the player actor 
 Free-Fly Mode:
-•	Use mouse to look in any direction which dictates the direction you will move forward in 
+	•	Use mouse to look in any direction which dictates the direction you will move forward in 
 
 How To Run Application
 ---------------------------------------------------------------------------------------------
