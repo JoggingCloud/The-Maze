@@ -19,7 +19,8 @@ Perspective Mode:
 	* WASD to move the player actor 
 
 Free-Fly Mode:
-	* Use mouse to look in any direction which dictates the direction you will move forward in 
+	
+ 	* Use mouse to look in any direction which dictates the direction you will move forward in 
 
 How To Run Application
 ---------------------------------------------------------------------------------------------
