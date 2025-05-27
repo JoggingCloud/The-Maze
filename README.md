@@ -14,7 +14,8 @@ The Keyboard Controls:
 4.	F key to toggle between perspective and free-fly camera mode
 	
 Perspective Mode:
-	* No mouse movement 
+	
+ 	* No mouse movement 
 	* WASD to move the player actor 
 
 Free-Fly Mode:
